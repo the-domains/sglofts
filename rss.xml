@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[sglofts]]></title>
         <description><![CDATA[sglofts]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sglofts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 04:33:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 13 Mar 2016 08:05:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sglofts/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Nhà phố quận ven. Hình mẫu ở nào cho vợ chồng trẻ ?]]></title>
-            <description><![CDATA[<article><h1>Nhà phố quận ven. Hình mẫu ở nào cho vợ chồng trẻ ?</h1><p>Với tốc độ đô thị hoá nhanh như</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad193b6a3f9abfbac8d278d4fdb43094a09de5b5.jpg"></article>]]></description>
-            <link>undefined2e3fff7f-6a3c-4a62-a595-6721dd2ddadb/index.html</link>
+            <title><![CDATA[Nhà phố hay chung cư, hình mẫu ở nào cho vợ chồng trẻ ?]]></title>
+            <description><![CDATA[<article><h1>Nhà phố hay chung cư, hình mẫu ở nào cho vợ chồng trẻ ?</h1><p>Khoảng hơn thập niên trước, mô hình nhà ở chung cư chưa được phát triển, không có mô hình nào có sức hút đầu tư và là môi trường sống mơ ước cho đại đa số người Sài Gòn như nhà phố và biệt thự. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad193b6a3f9abfbac8d278d4fdb43094a09de5b5.jpg"></article>]]></description>
+            <link>https://thegrid.ai/sglofts/2e3fff7f-6a3c-4a62-a595-6721dd2ddadb/index.html</link>
             <guid isPermaLink="false">2e3fff7f-6a3c-4a62-a595-6721dd2ddadb</guid>
-            <pubDate>Sun, 13 Mar 2016 04:33:48 GMT</pubDate>
+            <pubDate>Sun, 13 Mar 2016 08:05:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
